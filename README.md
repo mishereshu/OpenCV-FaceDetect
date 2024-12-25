@@ -1,5 +1,5 @@
-# OpenCV-FaceDetect
-An OpenCV Based Face Detection Software
+# Simple FaceDetect
+An Very Simple OpenCV Based Face Detection Software
 REQUIRED:
 -Python Path is correct one, to check use 'where python' in command prompt to check python installation, fix it to the default installation path and add the path during the python installation if you do not have it already 
 - Install Visual Studio CODE IDE (the one that i have used)
